@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 LSTMLM.py文件是修改后的手写LSTM文件
+LSTMLM2.py文件是双层LSTM文件
